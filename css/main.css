@@ -1,0 +1,59 @@
+img#main {
+  float: left;
+  margin: 1.2% 1.2%;
+}
+
+div.header {
+  float: left;
+  margin: 0 1.2%;
+  width: 40%;
+}
+
+div.centered {
+  float: left;
+}
+
+
+
+div.main {
+  clear: both;
+  margin: 0 1.2%;
+}
+
+hr {
+  clear: both;
+  padding: 2px;
+  margin: 5px;
+}
+
+h2 {
+
+    padding: 0px;
+    margin: 0px;
+}
+
+h3 {
+    padding: 0px;
+    margin: 0px;
+}
+
+footer {
+    left: 14;
+    bottom: 0;
+    margin: 0 1.2%;
+    width: 100%;
+}
+
+body {
+    background-color: rgb(230, 238, 255);
+}
+
+/* unvisited link */
+a:link {
+    color: rgb(0, 77, 230);
+}
+
+/* visited link */
+a:visited {
+    color: rgb(179, 179, 0);
+}
